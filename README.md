@@ -210,7 +210,7 @@ The problem we have faced in working on new language which we had never work bef
 
 ## References
 
--https://github.com/rccoder/Mini-Pascal-Compiler
--https://www.youtube.com/watch?v=Hw4GEwhCZpc 
--https://www.geeksforgeeks.org/recursive-descent-parser/
+- https://github.com/rccoder/Mini-Pascal-Compiler
+- https://www.youtube.com/watch?v=Hw4GEwhCZpc 
+- https://www.geeksforgeeks.org/recursive-descent-parser/
 
