@@ -1,6 +1,6 @@
 # C_ID 103411:Mini Pascal 
 
-**61454 | Umm e Aiman**
+61454 | Umm e Aiman
 60697 | Rubab Khan 
 
 ## Project Description 
@@ -205,10 +205,10 @@ sign →
 
 	 
 
-## Problems Faced
+### Problems Faced
 The problem we have faced in working on new language which we had never work before and to learn these language we have faced many difficulties because we are not using these languages on daily basis, also it is difficult to gather data from internet regarding these language.
 
-## References
+### References
 
 - https://github.com/rccoder/Mini-Pascal-Compiler
 - https://www.youtube.com/watch?v=Hw4GEwhCZpc 
